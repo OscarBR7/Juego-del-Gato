@@ -1,0 +1,28 @@
+Archivo para poder ejecutar el programa del AGENTE INTELIGENTE
+
+Para poder ejecutar el programa es necesario tener lo siguiente:
+
+-Tener instalado python, lo puede instalar desde el siguiente link:
+https://www.python.org/downloads/
+
+(Solo siga los pasos de la intalación)
+
+-Tener un editor de código
+
+-Tener un programa de Terminal para poder ejecutar el Archivo,
+puede ser un CMD, Powershell, Bash de Linux o Terminal de Mac
+
+
+#Proceso de ejecución
+
+1.- Decargar el archivo gato.py
+2.- Abrir una Terminal
+3.- Navegar hasta la ubicación del archivo gato.py
+3.- Una vez enontrandose en la misma ubicación que el archivo, en la Terminal se debera ejecutar
+el siguiente comando:
+  py gato.py
+
+4.-  El comando sirve para ejecutar el programa y así poder ver su funcionalidad
+5.- Probar el programa 
+6.- Al terminar de ejecutarse el programa, se devolvera la terminal y ahí habrá acabado el Proceso
+7.- Si se desea ejecutar el programa nuevamente regresar al paso 2
